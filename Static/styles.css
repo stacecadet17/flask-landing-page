@@ -1,0 +1,25 @@
+#ninjainfo{
+  text-align: center;
+  color: red;
+}
+
+#ninjas{
+  height: 400px;
+  width: 800px;
+  color: red;
+  border: red solid 10px;
+  text-align: center;
+  position: relative;
+  top: 250px;
+  background-color: black;
+}
+
+#ninjapic{
+  height: 300px;
+  width: 300px;
+  border: red solid 10px;
+  position: relative;
+  background-color: white;
+  left: 250px;
+  top: 300px;
+}
